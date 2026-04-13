@@ -1,14 +1,15 @@
-# 🤖 IT Support Copilot Automation Agent
+#  IT Support Copilot Automation Agent
 
 This project is a Tier-1 IT Support automation solution built using **Microsoft Copilot Studio**. It leverages **Retrieval-Augmented Generation (RAG)** to provide real-time solutions from internal documentation and automates ticket triage.
 
 ## 🚀 Live Demo
 You can interact with the agent here:
+
 https://m365.cloud.microsoft/chat/?titleId=T_3faac9b8-6473-b8b5-7cbf-bd81f7cecfcf&source=embedded-builder
 
 ---
 
-## 📚 Standard Operating Procedures (Internal Knowledge)
+##  Standard Operating Procedures (Internal Knowledge)
 The agent is trained on the following SOPs to ensure company-approved troubleshooting:
 
 ### 1. Account & Password Security
@@ -33,19 +34,19 @@ The agent is trained on the following SOPs to ensure company-approved troublesho
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 * **Platform:** Microsoft Copilot Studio
 * **Data Storage:** SharePoint Online (SOP Library)
 * **Logic:** Conditional Branching & AI-Interpretation
 * **Style:** Monochromatic Tech Aesthetic (Charcoal & Electric Blue)
 
-## 📂 Project Structure
+##  Project Structure
 * `/docs` - Contains full PDF versions of SOPs.
 * `/flowcharts` - Logic diagrams for troubleshooting paths.
 * `/screenshots` - Agent interface and logic nodes.
 
 
-## 📁 Project Documentation & Knowledge Base
+##  Project Documentation & Knowledge Base
 The intelligence of this Copilot is driven by a structured library of Standard Operating Procedures (SOPs). These documents are indexed for **RAG (Retrieval-Augmented Generation)**, allowing the agent to provide accurate, document-backed support.
 
 | Document Title | Type | Description |
