@@ -2,7 +2,7 @@
 
 This project is a Tier-1 IT Support automation solution built using **Microsoft Copilot Studio**. It leverages **Retrieval-Augmented Generation (RAG)** to provide real-time solutions from internal documentation and automates ticket triage.
 
-## 🚀 Live Demo
+##  Live Demo
 You can interact with the agent here:
 
 https://m365.cloud.microsoft/chat/?titleId=T_3faac9b8-6473-b8b5-7cbf-bd81f7cecfcf&source=embedded-builder
