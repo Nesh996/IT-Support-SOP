@@ -51,7 +51,7 @@ The intelligence of this Copilot is driven by a structured library of Standard O
 
 | Document Title | Type | Description |
 | :--- | :---: | :--- |
-https://acrobat.adobe.com/id/urn:aaid:sc:eu:6b2a53b3-5da4-4eed-a783-55c74868a38f| PDF/MD | High-level overview of the agent's logic and system flow. |
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:612a03a6-edcf-4947-9a4b-6a285dc92075| PDF/MD | High-level overview of the agent's logic and system flow. |
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:2e02f386-73a8-4479-b515-12ef7f4e4ddc| SOP | Step-by-step security protocol for credential recovery. |
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:7888a129-1468-4ac4-abbb-0e4a683e0782| SOP | Diagnostic flow for Wi-Fi, VPN, and DNS connectivity. |
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:6c260f7d-bc9c-41cf-ba09-26ecc4859179| SOP | Procedures for resolving lag and high resource utilization. |
