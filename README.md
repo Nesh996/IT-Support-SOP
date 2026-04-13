@@ -64,7 +64,7 @@ https://acrobat.adobe.com/id/urn:aaid:sc:EU:4a2e225b-f3b8-43ca-a019-8b99b6c996d6
 
 ---
 
-## ⚙️ Core Workflows
+##  Core Workflows
 1. **The Troubleshooting Assistant:** Guided menu for internet, PC speed, and login issues.
 2. **The Knowledge Retrieval (RAG):** Natural language search through indexed SOPs.
 3. **The Ticket Triage:** Automated classification of user input for helpdesk routing.
