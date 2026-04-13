@@ -59,3 +59,22 @@ https://acrobat.adobe.com/id/urn:aaid:sc:EU:8f50138e-5474-4530-a1e7-d577cd9632f0
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:4a2e225b-f3b8-43ca-a019-8b99b6c996d6| SOP | Multi-factor authentication enrollment and recovery steps. |
 
 > **Note:** All SOP documents follow a standard technical writing format: Objective, Scope, Step-by-Step Instructions, and Escalation Path.
+>
+> "Analyze the user's issue and output a table with: Category (Hardware/Software/Network/Access), Priority (Low/Medium/High), Recommended Team, and a Brief Summary."
+
+---
+
+## ⚙️ Core Workflows
+1. **The Troubleshooting Assistant:** Guided menu for internet, PC speed, and login issues.
+2. **The Knowledge Retrieval (RAG):** Natural language search through indexed SOPs.
+3. **The Ticket Triage:** Automated classification of user input for helpdesk routing.
+
+##  Potential Business Impact
+* **30% Reduction** in manual Tier-1 ticket volume.
+* **0s Response Time** for common troubleshooting queries.
+* **24/7 Availability** for remote and global teams.
+
+##  Conclusion
+This project demonstrates the transition from traditional IT Support to **Intelligent Systems**. By automating the "low-hanging fruit" of technical support, organizations can allow their technical talent to focus on high-level infrastructure and security.
+
+
