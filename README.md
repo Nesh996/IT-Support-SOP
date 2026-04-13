@@ -69,6 +69,17 @@ https://acrobat.adobe.com/id/urn:aaid:sc:EU:4a2e225b-f3b8-43ca-a019-8b99b6c996d6
 2. **The Knowledge Retrieval (RAG):** Natural language search through indexed SOPs.
 3. **The Ticket Triage:** Automated classification of user input for helpdesk routing.
 
+4. ## 💡 The Solution
+... (Your solution text here) ...
+
+## ⚙️ Core Workflows & Logic
+Before a user ever speaks to a technician, the Copilot guides them through these engineered paths.
+
+### Troubleshooting Flow: Slow Computer
+<img width="738" height="556" alt="image" src="https://github.com/user-attachments/assets/d4842b7e-8d36-490c-9276-175d9c848654" />
+
+<img width="817" height="543" alt="image" src="https://github.com/user-attachments/assets/1abd858e-faf2-40ce-8708-035f8d08b6ba" />
+
 ##  Potential Business Impact
 * **30% Reduction** in manual Tier-1 ticket volume.
 * **0s Response Time** for common troubleshooting queries.
